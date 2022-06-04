@@ -1,6 +1,8 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hi there 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupesh17040p&label=Profile%20views&color=0e75b6&style=flat" alt="bhupesh17040" /> </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<bhupesh17040>&theme=<THEME_NAME>" />
 
 <!--
 **bhupesh17040/bhupesh17040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
